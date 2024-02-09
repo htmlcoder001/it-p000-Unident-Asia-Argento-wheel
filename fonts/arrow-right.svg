@@ -1,0 +1,11 @@
+<svg width="5px" height="9px" viewBox="0 0 5 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow Right</title>
+    <desc>IFQ</desc>
+    <g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-opacity="0.9">
+        <g id="Arrow-Right" transform="translate(-23.000000, -21.000000)" stroke="#000000">
+            <g  transform="translate(25.500000, 25.500000) scale(-1, 1) translate(-25.500000, -25.500000) translate(23.000000, 21.000000)">
+                <polyline id="Path" points="4.5 8.5 0.5 4.5 4.5 0.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
