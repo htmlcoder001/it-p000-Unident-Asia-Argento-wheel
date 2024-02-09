@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
       date_items[i].innerHTML = p.getDate() + ' ' + monthA[p.getMonth()] + ' ' + p.getFullYear();
     }
 
-    document.getElementById('js_date_before').innerHTML = p.getDate() + ' ' + monthA[p.getMonth()];
-    document.getElementById('js_date_after').innerHTML = p.getDate() + ' ' + monthA[offer_month.getMonth()];
+    //document.getElementById('js_date_before').innerHTML = p.getDate() + ' ' + monthA[p.getMonth()];
+    //document.getElementById('js_date_after').innerHTML = p.getDate() + ' ' + monthA[offer_month.getMonth()];
   })();
 
   /* Anchor smooth scroll */
